@@ -11,10 +11,10 @@ The `create_scoreboard()` function takes a list of participant objects as input,
 
 To use this p:roject, follow these steps:
 
-1. Clone the repository git
+1. Clone the repository 'git clone https://github.com/Gesare-n/OOP-Problem'
 2. Import the 'create_scoreboard()' function into your code :from scoreboard import create_scoreboard
-3.Define a list of participant objects with their names and food quantities
-4.Generate scoreboard by calling the 'create_scoreboard()'function
+3. Define a list of participant objects with their names and food quantities
+4. Generate scoreboard by calling the 'create_scoreboard()'function
 
 ##License
 MIT
